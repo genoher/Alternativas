@@ -72,5 +72,7 @@ http://www.snagfilms.com/       |SI             |               |               
 http://www.classiccinemaonline.com/           |             |                 |                 |
 https://vidcorn.com/            |SI             |SI              |            |OPCIONAL |
 http://www.cuevana2torrents.com/|               |                |SI          |                 |
-
+https://ddmix.net/              |   NO          |SI              |              |               |
+                                |               |                |              |               |
+                                |               |                |              |               |
 
